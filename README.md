@@ -1,5 +1,6 @@
 ![RecTavo's wordmark](https://raw.githubusercontent.com/walpuerto/RecTavo/main/resources/RecTavoLogo2.png)
-RecTavo is a lightweight(I hope) management mobile-app for medium-sized businesses.
+# Rectavo - Lightweight, Precise, Customizable
+RecTavo is a lightweight, precise, and customizable utility mobile-app for businesses.
 
 Built-in is a record keeper to track your employees' work hours and a pay calculator that automatically compensates for overtime, holidays, etc.
 
